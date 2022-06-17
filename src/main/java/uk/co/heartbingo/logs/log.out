@@ -1,0 +1,24 @@
+2022-06-14 09:06:166 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-14 09:06:397 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 21:06:322 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 21:06:187 INFO  HomePage :33 - clickOnAccept : [[ChromeDriver: chrome on WINDOWS (61ba4b545ffd67fab8a143069119dcdd)] -> id: onetrust-accept-btn-handler]
+2022-06-17 21:06:665 INFO  HomePage :28 - clickOnLogin : [[ChromeDriver: chrome on WINDOWS (61ba4b545ffd67fab8a143069119dcdd)] -> xpath: //a[contains(text(),'Log In')]]
+2022-06-17 21:06:580 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 21:06:489 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 21:06:158 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 21:06:280 INFO  HomePage :33 - clickOnAccept : [[ChromeDriver: chrome on WINDOWS (ecb46f8233e3d8802bfab7487e25946a)] -> id: onetrust-accept-btn-handler]
+2022-06-17 21:06:952 INFO  HomePage :28 - clickOnLogin : [[ChromeDriver: chrome on WINDOWS (ecb46f8233e3d8802bfab7487e25946a)] -> xpath: //a[contains(text(),'Log In')]]
+2022-06-17 21:06:981 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 21:06:963 INFO  HomePage :33 - clickOnAccept : [[ChromeDriver: chrome on WINDOWS (42a572d434ed39c7875cbdda503eb970)] -> id: onetrust-accept-btn-handler]
+2022-06-17 21:06:686 INFO  HomePage :41 - clickOnLoginLink : [[ChromeDriver: chrome on WINDOWS (42a572d434ed39c7875cbdda503eb970)] -> xpath: //a[contains(text(),'Log In')]]
+2022-06-17 21:06:485 INFO  HomePage :42 - clickOnUserName : Proxy element for: DefaultElementLocator 'By.id: username'
+2022-06-17 21:06:633 INFO  HomePage :49 - clickOnPassword : [[ChromeDriver: chrome on WINDOWS (42a572d434ed39c7875cbdda503eb970)] -> id: password]
+2022-06-17 21:06:257 INFO  HomePage :55 - clickOnLoginButton : [[ChromeDriver: chrome on WINDOWS (42a572d434ed39c7875cbdda503eb970)] -> name: login_submit]
+2022-06-17 21:06:464 INFO  HomePage :60 - errorMessage : [[ChromeDriver: chrome on WINDOWS (42a572d434ed39c7875cbdda503eb970)] -> xpath: //div[@class='login_errorMessageWrapper__2ZcGx']]
+2022-06-17 21:06:720 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 21:06:162 INFO  HomePage :33 - clickOnAccept : [[ChromeDriver: chrome on WINDOWS (d8d12f03bee72e12990b5fb1a4261ef3)] -> id: onetrust-accept-btn-handler]
+2022-06-17 21:06:651 INFO  HomePage :41 - clickOnLoginLink : [[ChromeDriver: chrome on WINDOWS (d8d12f03bee72e12990b5fb1a4261ef3)] -> xpath: //a[contains(text(),'Log In')]]
+2022-06-17 21:06:598 INFO  HomePage :42 - clickOnUserName : Proxy element for: DefaultElementLocator 'By.id: username'
+2022-06-17 21:06:565 INFO  HomePage :49 - clickOnPassword : [[ChromeDriver: chrome on WINDOWS (d8d12f03bee72e12990b5fb1a4261ef3)] -> id: password]
+2022-06-17 21:06:262 INFO  HomePage :55 - clickOnLoginButton : [[ChromeDriver: chrome on WINDOWS (d8d12f03bee72e12990b5fb1a4261ef3)] -> name: login_submit]
+2022-06-17 21:06:779 INFO  HomePage :60 - errorMessage : [[ChromeDriver: chrome on WINDOWS (d8d12f03bee72e12990b5fb1a4261ef3)] -> xpath: //div[@class='login_errorMessageWrapper__2ZcGx']]
